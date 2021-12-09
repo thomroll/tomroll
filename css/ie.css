@@ -1,0 +1,4 @@
+.bodywrapper {display:none;}
+.preloader {display:none;}
+
+#warning  { display:block; position:relative; top:0px; width:100%; height:40px; background-color:#fff; margin-top:0px; padding:4px; border-bottom:solid 4px #000066; text-align: center;}
