@@ -295,6 +295,7 @@ body{background: white;}
     justify-content: center;
     /*margin-bottom: 60px;*/
     text-align: center;
+    margin: 0 auto !important;
 }
 
 .menu__nav-item {
