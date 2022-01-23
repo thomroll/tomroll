@@ -379,7 +379,6 @@ a.header__menu, .menu__nav-item {
     /*line-height: 20px;*/
     text-decoration: none;
     text-transform: uppercase;
-    transition: border-color 250ms linear 0s, background-color 450ms linear 0s, color 150ms linear 0s, opacity 150ms linear 0s;
 }
 
 
