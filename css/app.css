@@ -233,10 +233,11 @@ a.header__menu, .menu__nav-item {
 
 .menu,
 .menu__content {
+    display: flex;
+    margin: 0 auto;
     -webkit-box-flex: 1;
     opacity: 0;
     top: 0;
-    margin: 0;
     padding: 0;
 }
 
