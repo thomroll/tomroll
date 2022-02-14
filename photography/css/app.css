@@ -379,7 +379,6 @@ a.header__menu, .menu__nav-item {
     /*line-height: 20px;*/
     text-decoration: none;
     text-transform: uppercase;
-    transition: border-color 250ms linear 0s, background-color 450ms linear 0s, color 150ms linear 0s, opacity 150ms linear 0s;
 }
 
 
@@ -965,6 +964,8 @@ textarea {
 
 .menu,
 .menu__content {
+    display: flex;
+    margin: 0 auto;
     -webkit-box-flex: 1;
     opacity: 0;
     top: 0;
@@ -1054,6 +1055,7 @@ textarea {
     justify-content: center;
     /*margin-bottom: 60px;*/
     text-align: center;
+    margin: 0 auto;
 }
 
 .menu__nav-item {
